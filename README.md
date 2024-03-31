@@ -1,8 +1,8 @@
-Last updated 02 January, 2024
+Last updated 30 March, 2024
 
 ### CS260 -- Data Structures
-Winter 2024  
-CRN: 34401  
+Spring 2024  
+CRN: 41670  
 Credits: 4  
 Instructor: Joseph Jess  
 email: <jessj@linnbenton.edu>
@@ -30,7 +30,7 @@ This course explores the correct use of a variety of data structures in object-o
 
 ### 2. Class Time-space:
 1. **Note**: This class is delivered in a flexible format (you will not need to attend live sessions).
-2. **Lecture + demo + lab**: MWF 1400 -- 1520, flexible, see Moodle for details
+2. **Lecture + demo + lab**: M 1000 -- 1120, flexible, see Moodle for details
 
 ---
 
@@ -143,6 +143,3 @@ For a list of general administration information (note that this list is not int
 
 (each section contains a number of sub-sections and is not meant to be exhaustive of all situations)  
 see my [*Additional Administrative Information*](https://docs.google.com/document/d/1NTerBXVow4rFbZGEpWJKpkpA9DpyOSAfjzJ4FKhf0FU/ "Additional Administrative Information (Google Doc)" ).
-
-Changelog:
-1. 02 January, 2024, v1.0.0: initial release, manually cloned from [my CS260 spring 2023 GH repo](https://github.com/Joseph-I-Jess/cs260_spring_2023)
